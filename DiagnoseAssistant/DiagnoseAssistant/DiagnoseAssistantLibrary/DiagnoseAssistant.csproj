@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ModEntrance.cs" />
+<!--    <Compile Include="DiagnosesTable.cs "/>-->
     <Compile Include="Patches\DiagnosesTable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
