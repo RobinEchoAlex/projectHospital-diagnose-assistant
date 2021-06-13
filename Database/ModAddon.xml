@@ -1,0 +1,19 @@
+﻿<Database>
+    <GameDBAddon ID="DIAGNOSE_ASSISTANT">
+        <Author>RobinEchoAlex</Author>
+        <MinRequiredGameVersion>21900</MinRequiredGameVersion>
+    </GameDBAddon>
+
+    <GameDBStringTable ID="LOC_EN_DIAGNOSE_ASSISTANT">
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>RobinEchoAlex</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+           <GameDBLocalizedString>      <LocID>DIAGNOSE_ASSISTANT</LocID>          <Text>Diagnose Assistant</Text>  </GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
